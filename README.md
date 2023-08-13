@@ -26,6 +26,9 @@
 
 ###
 
+<h3>Connect With Me</h3>
+
+---
 <div align="left">
   <a href="https://www.instagram.com/farhanshafii34/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -52,7 +55,9 @@
 
 ###
 
+<h3>Statistics</h3>
 
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farhan-shafi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=farhan-shafi&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
