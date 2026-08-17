@@ -3,6 +3,7 @@
 ### WordPress Product Engineer & Full-Stack Developer
 
 I build production-grade WordPress plugins, SaaS products, and full-stack web applications. My work spans Gutenberg block development, plugin architecture, React interfaces, backend APIs, databases, and performance-focused websites.
+
 Over the past six years, I’ve shipped commercial WordPress products, custom client websites, and full-stack applications used in real production environments.
 
 Currently at [DotCamp](https://dotcamp.com), where I develop and maintain commercial WordPress products used across thousands of production websites.
