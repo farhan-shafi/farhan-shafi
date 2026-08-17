@@ -1,56 +1,62 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# Hi, I'm Farhan Shafi 👋
 
-<p>Welcome to profile! </br> I'm Farhan Shafi, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> <b>Karachi, Pakistan</b>. </p>
-<h3>Things I code with</h3>
+### WordPress Product Engineer & Full-Stack Developer
 
----
+I build production-grade WordPress plugins, SaaS products, and full-stack web applications. My work spans Gutenberg block development, plugin architecture, React interfaces, backend APIs, databases, and performance-focused websites.
+Over the past six years, I’ve shipped commercial WordPress products, custom client websites, and full-stack applications used in real production environments.
 
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
-  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="30" alt="materialui logo"  />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="30" alt="sass logo"  />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="30" alt="wordpress logo"  />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="jquery logo"  />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo"  />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" height="30" alt="webpack logo"  />
-</div>
+Currently at [DotCamp](https://dotcamp.com), where I develop and maintain commercial WordPress products used across thousands of production websites.
 
-###
+[Portfolio](https://farhan-shafi.com) · [LinkedIn](https://www.linkedin.com/in/farhanshafi34/)
 
-<h3>Connect With Me</h3>
+## WordPress Products
 
----
-<div align="left">
-  <a href="https://www.instagram.com/farhanshafii34/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/845199652444831745" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:farhanshafi34@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/farhanshafi34/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://facebook.com/farhanshafii" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/farhanshafi34" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://dev.to/farhanshafi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  </a>
-</div>
+- [Ultimate Blocks](https://wordpress.org/plugins/ultimate-blocks/) — Primary maintainer of a 36-block Gutenberg plugin used on 50,000+ WordPress sites. I work across PHP, React, block development, migrations, compatibility releases, and production fixes.
 
-###
+- [Galleryberg](https://wordpress.org/plugins/galleryberg-gallery-block/) — Built the Gutenberg gallery plugin from scratch, including responsive layouts, lightbox functionality, captions, dynamic ACF/SCF sources, and its free/Pro architecture.
+
+- [Tableberg](https://wordpress.org/plugins/tableberg/) — Worked on its migration from a custom table editor to native Gutenberg blocks, including versioned data migration and backward compatibility.
+
+- [Sliderberg](https://wordpress.org/plugins/sliderberg/) — Developed a block-native slider using Gutenberg InnerBlocks and Swiper.js, allowing images, text, buttons, and other blocks inside individual slides.
+
+## Full-Stack Products
+
+- [WorkNavo](https://clientflow-client.vercel.app/) — Multi-tenant client operations platform built with React, TypeScript, Express, and MongoDB. Includes organization-level roles, time tracking, invoicing, reporting, and financial-data permissions.
+
+- [Reppod](https://reppod-olive.vercel.app/) — Two-sided coaching SaaS built with Next.js, TypeScript, MongoDB, and Auth.js. Includes trainer/client accounts, workout builders, progress tracking, messaging, video uploads, and AI-generated plans.
+
+- [SecurePay](https://farhan-shafi.com/work/securepay) — Multi-currency digital wallet built with React Native and six FastAPI microservices using PostgreSQL, Redis, RabbitMQ, and Docker. Currently available as a local product demonstration.
+
+## Selected Client Websites
+
+- [Lumination AI](https://lumination.ai) — Custom WordPress theme for an AI consulting and product studio.
+
+- [Mostash](https://mostash.com) — WordPress Full-Site Editing website built with Kadence Blocks and custom styling.
+
+- [NoteGPT](https://notegpt.com) — Custom WordPress marketing site for an AI-powered note-taking product.
+
+- [Ethical.net](https://ethical.net) — Custom WordPress theme supporting editorial content, directories, and community resources.
+
+- [SourceLow](https://www.sourcelow.com) — WordPress-powered supplier and dropshipping directory.
+
+- [Ecommerce Platforms](https://ecommerce-platforms.com) — WordPress theme and frontend contributions for an ecommerce review publication.
+
+- [ecomm.design](https://ecomm.design) — WordPress theme contributions for an ecommerce design gallery containing thousands of curated websites.
+
+- [Creative Emm](https://creativeemm.com) — Client website for a branding and creative studio.
+
+## Selected Frontend Builds
+
+- [Flux Energy](https://flux-energy-xi.vercel.app/) — Responsive renewable-energy website built with Next.js, React, TypeScript, and motion.
+
+- [Accounting & Financial Partners](https://accounting-and-financial-partners.vercel.app/) — Responsive multi-page professional-services website built with Next.js and TypeScript.
+
+## Engineering Focus
+
+- Gutenberg block and commercial WordPress plugin architecture
+- Backward-compatible block migrations and production maintenance
+- Custom WordPress themes and content-management systems
+- Multi-tenant SaaS architecture and role-based authorization
+- React, Next.js, TypeScript, Node.js, and REST APIs
+- PHP, Python, FastAPI, MySQL, PostgreSQL, and MongoDB
+- Performance, maintainability, responsive interfaces, and product-focused engineering
