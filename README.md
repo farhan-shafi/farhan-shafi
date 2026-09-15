@@ -1,63 +1,45 @@
-# Hi, I'm Farhan Shafi 👋
+# Hi, I'm Farhan Shafi
 
-### WordPress Product Engineer & Full-Stack Developer
+### WordPress and Full-Stack Developer
 
-I build production-grade WordPress plugins, SaaS products, and full-stack web applications. My work spans Gutenberg block development, plugin architecture, React interfaces, backend APIs, databases, and performance-focused websites.
+I build WordPress plugins, Gutenberg blocks and custom themes, and full-stack apps with React, Next.js and Node.js. I've been doing this for six years, for product companies, agencies and direct clients.
 
-Over the past six years, I’ve shipped commercial WordPress products, custom client websites, and full-stack applications used in real production environments.
+I work at [DotCamp](https://dotcamp.com), where I maintain Ultimate Blocks, a Gutenberg plugin used on more than 50,000 WordPress sites.
 
-Currently at [DotCamp](https://dotcamp.com), where I develop and maintain commercial WordPress products used across thousands of production websites.
+[Portfolio](https://farhan-shafi.com) | [LinkedIn](https://www.linkedin.com/in/farhanshafi34/) | [WordPress.org](https://profiles.wordpress.org/farhanshafi/)
 
-[Portfolio](https://farhan-shafi.com) · [LinkedIn](https://www.linkedin.com/in/farhanshafi34/)
+## WordPress plugins
 
-## WordPress Products
+- **[Ultimate Blocks](https://wordpress.org/plugins/ultimate-blocks/)**: lead maintainer of a 36-block Gutenberg plugin used on 50,000+ sites. I ship free and Pro features, fixes and compatibility updates in PHP and React.
+- **[Galleryberg](https://wordpress.org/plugins/galleryberg-gallery-block/)**: built from scratch, with responsive layouts, a lightbox, captions, ACF and SCF image sources, and free and Pro versions.
+- **[TableBerg](https://wordpress.org/plugins/tableberg/)**: moved the plugin from a custom table editor to native Gutenberg blocks without breaking existing tables.
+- **[SliderBerg](https://wordpress.org/plugins/sliderberg/)**: a slider block built with Swiper.js, where each slide can hold images, text, buttons or any other block.
 
-- [Ultimate Blocks](https://wordpress.org/plugins/ultimate-blocks/) — Primary maintainer of a 36-block Gutenberg plugin used on 50,000+ WordPress sites. I work across PHP, React, block development, migrations, compatibility releases, and production fixes.
+## Full-stack apps
 
-- [Galleryberg](https://wordpress.org/plugins/galleryberg-gallery-block/) — Built the Gutenberg gallery plugin from scratch, including responsive layouts, lightbox functionality, captions, dynamic ACF/SCF sources, and its free/Pro architecture.
+- **WorkNavo**: a client operations app for teams, with roles, time tracking, invoices and reports. Built with React, TypeScript, Express and MongoDB. [Live site](https://clientflow-client.vercel.app/) and [code](https://github.com/farhan-shafi/worknavo).
+- **Reppod**: a coaching app for trainers and their clients, with workout builders, progress tracking, messaging and AI-generated plans. Built with Next.js, TypeScript, MongoDB and Auth.js. [Live site](https://reppod-olive.vercel.app/) and [code](https://github.com/farhan-shafi/reppod).
+- **SecurePay**: a multi-currency wallet with a React Native app and six FastAPI services, using PostgreSQL, Redis, RabbitMQ and Docker. It runs locally and is not deployed. [Code](https://github.com/farhan-shafi/SecurePay).
 
-- [Tableberg](https://wordpress.org/plugins/tableberg/) — Worked on its migration from a custom table editor to native Gutenberg blocks, including versioned data migration and backward compatibility.
+## Client websites
 
-- [Sliderberg](https://wordpress.org/plugins/sliderberg/) — Developed a block-native slider using Gutenberg InnerBlocks and Swiper.js, allowing images, text, buttons, and other blocks inside individual slides.
+- [Lumination AI](https://lumination.ai): custom WordPress theme for an AI consulting studio.
+- [NoteGPT](https://notegpt.com): custom WordPress marketing site for an AI note-taking app.
+- [Mostash](https://mostash.com): full-site editing WordPress site built with Kadence Blocks.
+- [Ethical.net](https://ethical.net): custom WordPress theme for a magazine, directory and community.
+- [SourceLow](https://www.sourcelow.com): WordPress directory for dropshipping and print-on-demand sellers.
+- [Ecommerce Platforms](https://ecommerce-platforms.com): theme and frontend work for an ecommerce review site.
+- [ecomm.design](https://ecomm.design): theme work for an ecommerce design gallery.
 
-## Full-Stack Products
+## Other builds
 
-- [WorkNavo](https://clientflow-client.vercel.app/) — Multi-tenant client operations platform built with React, TypeScript, Express, and MongoDB. Includes organization-level roles, time tracking, invoicing, reporting, and financial-data permissions.
+- [Flux Energy](https://flux-energy-xi.vercel.app/): renewable energy website concept built with Next.js and TypeScript.
+- [Accounting & Financial Partners](https://accounting-and-financial-partners.vercel.app/): multi-page website for an accounting firm, built with Next.js and TypeScript.
 
-- [Reppod](https://reppod-olive.vercel.app/) — Two-sided coaching SaaS built with Next.js, TypeScript, MongoDB, and Auth.js. Includes trainer/client accounts, workout builders, progress tracking, messaging, video uploads, and AI-generated plans.
+## What I work with
 
-- [SecurePay](https://farhan-shafi.com/work/securepay) — Multi-currency digital wallet built with React Native and six FastAPI microservices using PostgreSQL, Redis, RabbitMQ, and Docker. Currently available as a local product demonstration.
-
-## Selected Client Websites
-
-- [Lumination AI](https://lumination.ai) — Custom WordPress theme for an AI consulting and product studio.
-
-- [Mostash](https://mostash.com) — WordPress Full-Site Editing website built with Kadence Blocks and custom styling.
-
-- [NoteGPT](https://notegpt.com) — Custom WordPress marketing site for an AI-powered note-taking product.
-
-- [Ethical.net](https://ethical.net) — Custom WordPress theme supporting editorial content, directories, and community resources.
-
-- [SourceLow](https://www.sourcelow.com) — WordPress-powered supplier and dropshipping directory.
-
-- [Ecommerce Platforms](https://ecommerce-platforms.com) — WordPress theme and frontend contributions for an ecommerce review publication.
-
-- [ecomm.design](https://ecomm.design) — WordPress theme contributions for an ecommerce design gallery containing thousands of curated websites.
-
-- [Creative Emm](https://creativeemm.com) — Client website for a branding and creative studio.
-
-## Selected Frontend Builds
-
-- [Flux Energy](https://flux-energy-xi.vercel.app/) — Responsive renewable-energy website built with Next.js, React, TypeScript, and motion.
-
-- [Accounting & Financial Partners](https://accounting-and-financial-partners.vercel.app/) — Responsive multi-page professional-services website built with Next.js and TypeScript.
-
-## Engineering Focus
-
-- Gutenberg block and commercial WordPress plugin architecture
-- Backward-compatible block migrations and production maintenance
-- Custom WordPress themes and content-management systems
-- Multi-tenant SaaS architecture and role-based authorization
-- React, Next.js, TypeScript, Node.js, and REST APIs
-- PHP, Python, FastAPI, MySQL, PostgreSQL, and MongoDB
-- Performance, maintainability, responsive interfaces, and product-focused engineering
+- **WordPress:** PHP, Gutenberg blocks, custom themes, full-site editing, ACF, WooCommerce, Freemius
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, Python, FastAPI, REST APIs
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **Mobile:** React Native, Expo
